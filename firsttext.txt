@@ -1,2 +1,2 @@
-hello first try.
+hello first try.+ bug is fixed
 new line is added.
